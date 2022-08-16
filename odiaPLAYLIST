@@ -1,0 +1,140 @@
+#EXTINF:-1 tvg-id="ts419" tvg-logo="https://i.postimg.cc/W44mY7Tw/otv.png" group-title="ଓଡ଼ିଆ", OTV
+https://otvvid-live.pc.cdn.bitgravity.com/otv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts237" tvg-logo="https://i.postimg.cc/cHpQHyYF/tarang.png" group-title="ଓଡ଼ିଆ", Tarang TV
+https://otvvid-live.pc.cdn.bitgravity.com/tarangtv-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G28FdhBB/prarthana.png" group-title="ଓଡ଼ିଆ", Prarthana TV
+https://otvvid-live.pc.cdn.bitgravity.com/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2HQtxfm/jay-jagannath.png" group-title="ଓଡ଼ିଆ", Jay Jagannath TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7QmoTVvmT5E
+
+#EXTINF:-1 tvg-id="ts50" tvg-logo="https://i.postimg.cc/v8nrKTFk/taranga-music.png" group-title="ଓଡ଼ିଆ", Tarang Music
+https://otvvid-live.pc.cdn.bitgravity.com/tarangmusic-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gc1Mw1mF/alankara.png" group-title="ଓଡ଼ିଆ", Alankar
+https://otvvid-live.pc.cdn.bitgravity.com/alankar-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="722" tvg-logo="https://i.postimg.cc/BQGTf3J6/zee-sarthak.png" group-title="ଓଡ଼ିଆ",Zee Sarthak
+http://65.1.95.38/live.php?c=Sarthak_TV&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="722" tvg-logo="https://i.postimg.cc/BQGTf3J6/zee-sarthak.png" group-title="ଓଡ଼ିଆ", Zee Sarthak
+https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-sarthaktv 
+
+#EXTINF:-1 tvg-id="1956" tvg-logo="https://i.postimg.cc/C5bbnPsS/sidharth-tv.png" group-title="ଓଡ଼ିଆ",Sidharth TV
+http://65.1.95.38/live.php?c=Sidharth_TV&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1957" tvg-logo="https://i.postimg.cc/BvwTr1v9/sid-gold.png" group-title="ଓଡ଼ିଆ",Sidharth Gold
+http://65.1.95.38/live.php?c=Sidharth_Gold&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1958" tvg-logo="https://i.postimg.cc/sD9pVL2J/sid-bhakti.png" group-title="ଓଡ଼ିଆ",Sidharth Bhakti
+http://65.1.95.38/live.php?c=Sidharth_Bhakti&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="198" tvg-logo="https://i.postimg.cc/MpmtFTRq/colors-odia.png" group-title="ଓଡ଼ିଆ", Colors Oriya  
+http://65.1.95.38/live.php?c=Colors_Oriya&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="198" tvg-logo="https://i.postimg.cc/MpmtFTRq/colors-odia.png" group-title="ଓଡ଼ିଆ",Colors Oriya
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tv.media.jio.com/proxy?provider=reliance&content_id=9888999014&videoid=1306&vootid=1306&isVoot=true&voottoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJXcnB4eFg3RVp0UEpZR1Q4d05Yak9aYlpXbWoxIiwiZW1haWwiOiJzYWdhcnZhbnRpbWFyQGdtYWlsLmNvbSIsImRldmljZUlkIjoiM2ZkZWY2NDMtMTMzNC00NGE2LWE2ZmQtNmQ3ZWU0ZGY2MmZlIiwia1VzZXJJZCI6IjIzNzc3MjIxNCIsImlhdCI6MTY1NjA1NTIwMSwiZXhwIjoxNjU2OTE5MjAxLCJpc3MiOiJ2b290In0.Od6PcFu29g8uBX3foZh1sC9-VxjBiINDTNlCcRjz0Xo
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Oriya_voot_MOB/output/index.mpd
+
+#EXTINF:-1 tvg-id="1299" tvg-logo="https://i.postimg.cc/vmPhGN3K/manjari.png" group-title="ଓଡ଼ିଆ",Manjari TV
+http://65.1.95.38/live.php?c=Manjari_TV&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2010" tvg-logo="https://i.imgur.com/hUCCmop.png" group-title="ଓଡ଼ିଆ",Ekamra Nilach akra
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2010&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2010" tvg-logo="https://i.imgur.com/hUCCmop.png" group-title="ଓଡ଼ିଆ",Ekamra Nilach akra
+https://ekamra.livebox.co.in/ekamranilachakrahls/ekamranilachakra.m3u8
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="https://i.imgur.com/scmC6ns.png" group-title="ଓଡ଼ିଆ",Ekamra Bharat Odia
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2011&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2011" tvg-logo="https://i.imgur.com/scmC6ns.png" group-title="ଓଡ଼ିଆ",Ekamra Bharat Odia
+https://ekamra.livebox.co.in/raftarodiahls/raftarodia.m3u8
+
+#EXTINF:-1 tvg-id="2013" tvg-logo="https://i.imgur.com/FPjfcDs.png" group-title="ଓଡ଼ିଆ",Ekamra S News
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2013&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2013" tvg-logo="https://i.imgur.com/FPjfcDs.png" group-title="ଓଡ଼ିଆ",Ekamra S News
+https://ekamra.livebox.co.in/khabara24x7hls/khabara24x7.m3u8
+
+#EXTINF:-1 tvg-id="2015" tvg-logo="https://i.imgur.com/8TaEiox.png" group-title="ଓଡ଼ିଆ",Ekamra Musiq
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2015&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2015" tvg-logo="https://i.imgur.com/8TaEiox.png" group-title="ଓଡ଼ିଆ",Ekamra Musiq
+https://ekamra.livebox.co.in/ekamramusichls/ekamramusic.m3u8
+
+#EXTINF:-1 tvg-id="2016" tvg-logo="https://i.imgur.com/KuOvI5W.png" group-title="ଓଡ଼ିଆ",Ekamra Cinema
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2016&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2012" tvg-logo="https://i.imgur.com/fStowMD.png" group-title="ଓଡ଼ିଆ",Paramatma
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=2012&q=1200&e=.m3u8 
+
+#EXTINF:-1 tvg-id="2012" tvg-logo="https://i.imgur.com/fStowMD.png" group-title="ଓଡ଼ିଆ",Paramatma
+https://ekamra.livebox.co.in/paramatmahls/paramatma.m3u8
+
+#EXTINF:-1 tvg-id="7001.Kalinga.in" tvg-logo="https://i.postimg.cc/CKMJTgHD/kalingarv.png" group-title="ଓଡ଼ିଆ", Kalinga TV
+https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="7001.Kalinga.in" tvg-logo="https://i.postimg.cc/CKMJTgHD/kalingarv.png" group-title="ଓଡ଼ିଆ",Kalinga TV
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=7001&q=1200&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="724" tvg-logo="https://i.postimg.cc/2Skn3xbN/zeeodisha.png" group-title="ଓଡ଼ିଆ",Zee Odisha 
+https://d2dn62mzqr1orl.cloudfront.net/out/v1/c09e7bb74ea04f16a2275542244269b8/index_4.m3u8
+
+#EXTINF:-1 tvg-id="724" tvg-logo="https://i.postimg.cc/2Skn3xbN/zeeodisha.png" group-title="ଓଡ଼ିଆ",Zee Odisha 
+https://nayeem-parvez.tk/zeppytv/m3u8.php?c=0-9-9z5148695
+
+#EXTINF:-1 tvg-id="718" tvg-logo="https://i.postimg.cc/2jLGfTvH/kanaknews.png" group-title="ଓଡ଼ିଆ",Kanak News
+http://gg.gg/kanak_news_yt
+
+#EXTINF:-1 tvg-id="718" tvg-logo="https://i.postimg.cc/2jLGfTvH/kanaknews.png" group-title="ଓଡ଼ିଆ",Kanak News 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=718&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1481" tvg-logo="https://i.postimg.cc/YqgdQ8C4/argusnews.png" group-title="ଓଡ଼ିଆ",Argus News 
+https://live.argusnews.in/hls/argustv.m3u8
+
+#EXTINF:-1 tvg-id="1481" tvg-logo="https://i.postimg.cc/YqgdQ8C4/argusnews.png" group-title="ଓଡ଼ିଆ",Argus News 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=1481&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="1427" tvg-logo="https://i.postimg.cc/PJDQzrTG/nandighoshtv.png" group-title="ଓଡ଼ିଆ", Nandighosha TV
+http://gg.gg/nandi_odia
+
+#EXTINF:-1 tvg-id="1427" tvg-logo="https://i.postimg.cc/PJDQzrTG/nandighoshtv.png" group-title="ଓଡ଼ିଆ", Nandighosha Tv 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=1427&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="779" tvg-logo="https://i.postimg.cc/vZbtfsKj/news7.png" group-title="ଓଡ଼ିଆ",Prameya News 7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="779" tvg-logo="https://i.postimg.cc/vZbtfsKj/news7.png" group-title="ଓଡ଼ିଆ",Prameya News 7
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=779&q=1200
+
+#EXTINF:-1 tvg-id="1584" tvg-logo="https://i.postimg.cc/7Z9MNR8L/news18odia.png" group-title="ଓଡ଼ିଆ",News18 Odia
+https://nw18live.cdn.jio.com/bpk-tv/News18_Odia_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="1584" tvg-logo="https://i.postimg.cc/7Z9MNR8L/news18odia.png" group-title="ଓଡ଼ିଆ",News18 Odia 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=1584&q=1200 
+
+#EXTINF:-1 tvg-id="1692" tvg-logo="https://i.postimg.cc/jSbZcNDM/badakhabar.png" group-title="ଓଡ଼ିଆ",Badakhabar 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=1692&q=1200 
+
+#EXTINF:-1 tvg-id="799" tvg-logo="https://i.postimg.cc/15xHR6ry/naxtra.png" group-title="ଓଡ଼ିଆ",Naxatra News 
+https://wearelive.livebox.co.in/naxatratvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="799" tvg-logo="https://i.postimg.cc/15xHR6ry/naxtra.png" group-title="ଓଡ଼ିଆ",Naxatra News 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=799&q=1200 
+
+#EXTINF:-1 tvg-id="631" tvg-logo="https://i.postimg.cc/QxpqFtf1/mbctv.png" group-title="ଓଡ଼ିଆ",MBC 
+https://gmkd57vernxo-hls-live.wmncdn.net/mbctv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="631" tvg-logo="https://i.postimg.cc/QxpqFtf1/mbctv.png" group-title="ଓଡ଼ିଆ",MBC 
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=631&q=1200
+
+#EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/vBkvV6RL/ddodia.png" group-title="ଓଡ଼ିଆ", DD Odia
+https://m-c25-j2apps.s.llnwi.net/hls/8061.DDOriya.in.m3u8
+
+#EXTINF:-1 tvg-id="702" tvg-logo="https://i.postimg.cc/vBkvV6RL/ddodia.png" group-title="ଓଡ଼ିଆ", DD Odia
+https://test-streamhubteam.vercel.app/jiotv/amar.php?id=702&q=1200
